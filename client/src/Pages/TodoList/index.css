@@ -1,0 +1,11 @@
+.container {
+    padding-top: 20px;
+}
+
+.row, .col {
+    padding: 20px;
+}
+
+.card-btn {
+    width: 6rem;
+}
